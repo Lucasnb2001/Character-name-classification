@@ -1,0 +1,83 @@
+Elizabeth Bennet
+Mr. Darcy 
+Fitzwilliam Darcy
+Mr. Bennet
+Mrs. Bennet
+Jane Bennet
+Mr. Bingley 
+Charles Bingley
+Lydia Bennet
+Kitty Bennet
+Mary Bennet
+Charlotte Lucas
+Mr. Collins 
+William Collins
+Lady Catherine de Bourgh
+Georgiana Darcy
+Caroline Bingley
+Emma Woodhouse
+Mr. Knightley 
+George Knightley
+Harriet Smith
+Frank Churchill
+Frank Weston Churchill
+Jane Fairfax
+Miss Bates 
+Miss Bates
+Mr. Woodhouse
+Mr. Elton 
+Philip Elton
+Fanny Price
+Edmund Bertram
+Maria Bertram
+Julia Bertram
+Mary Crawford 
+Maria Bertram
+Henry Crawford
+Sir Thomas Bertram
+Mrs. Norris 
+Aunt Norris
+Mansfield Park
+Anne Elliot
+Captain Frederick Wentworth
+Mr. Sir Walter Elliot
+Mrs. Elizabeth 
+Elliot Smith
+Mary Musgrove
+Charles Musgrove
+Louisa Musgrove
+Captain Benwick
+Lady Russell
+Elinor Dashwood
+Marianne Dashwood
+Edward Ferrars
+Colonel Brandon
+John Willoughby
+Mrs. Jennings
+Lucy Steele
+Sense and Sensibility
+Catherine Morland
+Henry Tilney
+Eleanor Tilney
+Northanger Abbey
+Emma Woodhouse
+Mr. Knightley
+Frank Churchill
+Jane Fairfax
+Miss Bates
+Mr. Woodhouse
+Mr. Elton
+Persuasion
+Anne Elliot
+Captain Frederick Wentworth
+Mr. Sir Walter Elliot
+Mrs. Elizabeth Smith
+Mary Musgrove
+Charles Musgrove
+Louisa Musgrove
+Captain Benwick
+Lady Russell
+Northanger Abbey
+Catherine Morland
+Henry Tilney
+Eleanor Tilney
